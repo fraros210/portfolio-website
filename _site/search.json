@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Automotive Education and Experience",
+    "section": "",
+    "text": "As summarized on my subpage Eduacation in Business, I brliefly mentioned my automotive experience. Having so at the two dealerships that I’ve worked at has helped me refined my automotive knowledge as well as understanding the anatomy of vehicles. Personally, I have owned about 11 vehicles over the course of 5 years, ranging from Subaru’s to Toyota’s to Lexus’s. For the most part, I’ve done the majority of the work on my vehicles trying to understand the different variations of engine configurations and transmissions."
+  },
+  {
+    "objectID": "strategic-marketing.html#education-automotive-technology",
+    "href": "strategic-marketing.html#education-automotive-technology",
+    "title": "Automotive Education and Experience",
+    "section": "[Education: Automotive Technology]",
+    "text": "[Education: Automotive Technology]\nI was involved in the automotive program at Rio Hondo Community College for two years, ranging from several classes that involved hands-on work on various vehicles. These classes ranged from different subjects from engine repairs, smog, electrical diagnostics, and brakes. Provided below are several of the classes that I partook in to better understand vehicles and how to address issues and maintenance services.\nClasses Taken:\n\nAUTO 101: Introduction Automotive Service & Repair Under the Hood: Introductory class to general automotive services for components primarily focused within the engine bay.\nAUTO 103: Introduction Automotive Service & Repair Under Car : Introductory class that mainly focuses on the whole chassis (drivetrain, tranmission, suspension components)\nAUTO 106: Automotive Electrical Tool & Diagnostics The understanding of eletrical components including wiring harnesses, lights, fuses, modules, etc on a vehicle.\nAUTO 107: Introduction to Automotive Light Service A followup on the underhood and undercar services of a vehicle, including battery and basic electrical service, pre-delivery inspection procedures, and preventative maintenance operations."
+  },
+  {
+    "objectID": "strategic-marketing.html#application-into-the-workforce-puente-hills-toyota",
+    "href": "strategic-marketing.html#application-into-the-workforce-puente-hills-toyota",
+    "title": "Automotive Education and Experience",
+    "section": "[Application Into the Workforce: Puente Hills Toyota]",
+    "text": "[Application Into the Workforce: Puente Hills Toyota]\nDuring my educational journey, I applied some of my knowledge at my former job at [Puente Hills Toyota] in the City of Industry, as I was able to see first hand various services, from basic oil changes to engine overhauls, with brief hands on experience on customer vehicles.\nSkills Acquired: - Automotive Knowledge: Hands-on experience on vehicle services, as well as general knowledge and insight for vehicles and their manufacturers. - Tool proficiency: The understanding of tools and their functions to appropriately assess which tool to utilize for specific services. - Vehicle Diagnostics: Looking for ways and finding the reasons behind underlying issues. - Technical problem-solving: After the diagnostic process, looking for ways to tackle the issue via prior knowledge and data information insight."
+  },
+  {
+    "objectID": "strategic-marketing.html#continuation-into-the-workforce-claremont-toyota",
+    "href": "strategic-marketing.html#continuation-into-the-workforce-claremont-toyota",
+    "title": "Automotive Education and Experience",
+    "section": "[Continuation Into the Workforce: Claremont Toyota]",
+    "text": "[Continuation Into the Workforce: Claremont Toyota]\nAfter being with Puente Hills for roughly a year, I went to work at [Claremont Toyota], which is where I currently work at. After starting off as a service greeter, I began to transition into hybrid work as a service express writer, learning how to write up repair orders for the service department, overlooking multi-point inspections by the technician, checking in the customer for their service and going over the report with the customer. From here my automotive knowledge was utilized by helping customers deeply understand the reason behind certain functions and service intervals, allowing for an overall satisfaction in their service."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nCurrently, I hold a position working at the Claremont Toyota Dealership in Claremont, California as a Service Greeter. I retain skills in customer service and sanitation, maintaining the work facility, and running errands when needed to (bringing paperwork, refilling the printers with paper, carrying heavy objects, etc). I’ve recently acquired service writing skills as a hybrid express writer, meaning that I am mobilized as one when there is a high volume of customers on the service drive. My main objective is to utilize the additional skills that I have acquired from obtaining my automotive certificate and business degree into becoming a service advisor and to further carry out excellent customer service and professionalism within the service department.\n\n\nTechnical Skills\n\n-tribble(\n\nDegree, ~ Year, ~ College, ~ Institution, “Bachleor of [Business Management]”, “2025 – Expected Graduation 2026”, “[College of Business]”, “[California State Polytechnic University, Pomona]”, “General Automotive Service Certificate of Achievement”, “2020 – 2024”, “[Automotive Technology]”, “[Rio Hondo Community College]”, “Business Administration for Transfer”, “2020 – 2024”, “[Department of Business]”, “[Rio Hondo Community College]” ) %&gt;% detailed_entries(Degree, Year, College, Institution)ren\n\n\n\n\n# A tibble: 2 × 5\n  what      when                    with                    where why       \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                   &lt;chr&gt; &lt;list&gt;    \n1 Job Title August 2024 – Present   Claremont Toyota        &lt;NA&gt;  &lt;list [4]&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team &lt;NA&gt;  &lt;list [4]&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "contact-us/thank-you.html",
+    "href": "contact-us/thank-you.html",
+    "title": "Thank you",
+    "section": "",
+    "text": "Form submitted."
+  },
+  {
+    "objectID": "contact-us/contact-us.html",
+    "href": "contact-us/contact-us.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Template"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Francis Rosales",
+    "section": "About Me",
+    "text": "About Me\nI hold a [General Automotive Service Certificate of Achievement, Business Administration for Transfer Associate’s Degree] from [Rio Hondo Community College]. I am currently going to California State Polytechnic University, Pomona for a Bachleor’s Degree in Business Administration with an emphasis on Marketing Management."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Francis Rosales",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Education in Business",
+    "section": "",
+    "text": "I began my business education at Rio Hondo Community College in August of 2020, grasping a wide variety of knowledge from management skills, to data analysis and financial literacy. From there I graduated by May of 2024 with an Associates in Business Administration for Transfer, in addition with a General Automotive Service Certificate of Achievement. With my educational experience, I applied it to my job position at two dealerships (Puente Hills Toyota and Claremont Toyota), in which I also learned to become a service express writer where I would write up repair orders for vehicles coming in through our service department.\nProvided below are the skills that I’ve garnished over the course of 6 years throughout my educational and career path which highlight my experience applying these specific skills to real-world challenges and scenarios. These skills reflect my ability to combine experience, critical-thinking skills, and adaptability to make well-informed decisions and great results."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Education in Business",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nVirtual Literacy: Critical skills in various programs, such as Adobe and Micrsoft, in addition to fast-paced typing skills and creating repair orders.\nData Analysis: Utilizing data analytics to find solutions for increased customer engagement.\nCustomer Service Skills: Long-term developed skills over the course of 5 years in several industries with the ability to adapt to different conversations.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nI have several skills professionally within both the educational and work environment for about half a decade. This includes skills in customer service, computer literacy, critical thinking skills, sanitation, and technical skills. I currently possess a posititon at Claremont Toyota in a position called ‘service greeter’ that requires me to interact with customers by checking them in for service, updating them on their status in queue for the next avaiable advisor, and communicating with my team members to ensure efficiency in our service department. I am willing to work as a team player and have acted as a team leader during times of necessity, as well as sole member when having to adapt to certain environments.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, JavaScript, Quarto, Adobe, Microsoft, Google Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Business Administration Major, Minor Emphasis in Marketing Management]\n[2025 – 2026]\n[College of Business]\n[California State Polytechnic University, Pomona]\n\n\n[General Automotive Service Certitficate of Achievement]\n[2020 - 2024]\n[Automotive Technology]\n[Rio Hondo Community College]\n\n\n[Business Administration for Transfer Associates]\n[2020 – 2024]\n[Business Department]\n[Rio Hondo Community College]\n\n\n\n\n\nWork Experience\n\n[Service Greeter], [Claremont Toyota]\n[ August 2024 – Present]\n\nProvide customer service when necessary to preserve efficiency in the service department\n\nWriting up repair orders, checking over multi-inspection reports for errors and explaining it over with the customer, in addition to any questions or inquiries regarding their vehicle’s overall health.\nMaintain the service drive when necessary (sanitation, organizing items to mark vehicles, delivering and parking vehicles, and running paper errands for fellow team members)\nUtilization of computers for paperwork, mobile phone to queue up customers, and maintenance items for sanitation\n\n\n\n\n[Service Valet], [Puente Hills Toyota]\n[May 2023 – August 2024]\n\nGreeting and assisting customers when needed (delivering vehicles, running errands for team members, maintaining printers)\nDoing fire extinguisher inspections every month to ensure the efficiency of such items in the event of a fire\nMaintaining the service department when needed through sanitation measures, parking vehicles, and organizing service items if needed.\n\n\n\n\n[Overnight Stocker Associate], [Walmart City of Industry]\n[December 2022 – May 2023]\n\nResponsible for stocking up shelves with the appropriate products.\nEnsured that trash was properly crushed with the company provided trash compactor and loading up unneeded pallets onto trucks\nSanitized work areas and store aisles when necessary.\nUnloaded product pallets compiled of meat, vegetables, and other miscellaneous frozen products.\n\n\n\n[Sales Associate and Cashier], [Big 5 Sporting Goods La Puente]\n[February 2021 – June 2024]\n\nRestocked shelves with appropriate products based on category or season.\nScanned inventory to receive a proper quantity count.\nCleaned work stations and aisles throughout the store.\nAssisted customers with inquiries and questions when asked.\nChecked out customers at the cashier register when ready for a transaction."
+  }
+]

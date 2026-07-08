@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Francis Rosales"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Education in Business"
+        href: marketing-analytics.qmd
+      - text: "Automotive Education and Experience"
+        href: strategic-marketing.qmd
+      - text: "Résumé"
+        href: resume.qmd
+
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    toc: true
+    include-in-header: includes/gtm-head.html      # Injects GTM script into <head>
+    include-before-body: includes/gtm-body.html    # Injects GTM noscript immediately after <body> opens
+

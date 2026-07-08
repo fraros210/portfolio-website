@@ -1,0 +1,73 @@
+---
+title: "Résumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](resume/Functional%20Work%20Resume%202026.pdf).
+
+# Professional Summary
+
+I have several skills professionally within both the educational and work environment for about half a decade. This includes skills in customer service, computer literacy, critical thinking skills, sanitation, and technical skills. I currently possess a posititon at Claremont Toyota in a position called 'service greeter' that requires me to interact with customers by checking them in for service, updating them on their status in queue for the next avaiable advisor, and communicating with my team members to ensure efficiency in our service department. I am willing to work as a team player and have acted as a team leader during times of necessity, as well as sole member when having to adapt to certain environments. 
+
+# Technical Skills
+
+- **Programming Languages:** R, Python, SQL, etc.  
+- **Web Technologies:** HTML, JavaScript, Quarto, Adobe, Microsoft, Google Analytics Tools
+- **Automotive Aptitude:** Understanding vehicle anatomy, performing maintenance services, and basic diagnostics when necessary to the vehicle.
+
+# Education
+
+| Degree                             | Year                          | College / Department                 | Institution         |
+| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
+| [Business Administration Major, Minor Emphasis in Marketing Management]                     | [2025 – 2026]     | [College of Business]        | [California State Polytechnic University, Pomona]   |
+| [General Automotive Service Certitficate of Achievement] | [2020 - 2024]            | [Automotive Technology]        | [Rio Hondo Community College]   |
+| [Business Administration for Transfer Associates]                     | [2020 – 2024]     | [Business Department]        | [Rio Hondo Community College]   |
+
+# Work Experience
+
+### [Service Greeter], [Claremont Toyota]  
+*[ August 2024 – Present]*
+
+- Provide customer service when necessary to preserve efficiency in the service department  
+- Writing up repair orders, checking over multi-inspection reports for errors and explaining it over with the customer, in addition to any questions or inquiries regarding their vehicle's overall health.
+- Maintain the service drive when necessary (sanitation, organizing items to mark vehicles, delivering and parking vehicles, and running paper errands for fellow team members)
+- Utilization of computers for paperwork, mobile phone to queue up customers, and maintenance items for sanitation
+
+---
+
+### [Service Valet], [Puente Hills Toyota]  
+*[May 2023 – August 2024]*
+
+- Greeting and assisting customers when needed (delivering vehicles, running errands for team members, maintaining printers)
+- Doing fire extinguisher inspections every month to ensure the efficiency of such items in the event of a fire
+- Maintaining the service department when needed through sanitation measures, parking vehicles, and organizing service items if needed.
+
+---
+
+### [Overnight Stocker Associate], [Walmart City of Industry]  
+*[December 2022 – May 2023]*
+
+- Responsible for stocking up shelves with the appropriate products.
+- Ensured that trash was properly crushed with the company provided trash compactor and loading up unneeded pallets onto trucks
+- Sanitized work areas and store aisles when necessary.
+- Unloaded product pallets compiled of meat, vegetables, and other miscellaneous frozen products.
+
+### [Sales Associate and Cashier], [Big 5 Sporting Goods La Puente]  
+*[February 2021 – June 2024]*
+
+- Restocked shelves with appropriate products based on category or season.
+- Scanned inventory to receive a proper quantity count.
+- Cleaned work stations and aisles throughout the store. 
+- Assisted customers with inquiries and questions when asked.
+- Checked out customers at the cashier register when ready for a transaction.
+
+---

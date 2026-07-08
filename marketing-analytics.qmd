@@ -1,0 +1,23 @@
+---
+title: "Education in Business"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+I began my business education at Rio Hondo Community College in August of 2020, grasping a wide variety of knowledge from management skills, to data analysis and financial literacy. From there I graduated by May of 2024 with an Associates in Business Administration for Transfer, in addition with a General Automotive Service Certificate of Achievement. With my educational experience, I applied it to my job position at two dealerships (Puente Hills Toyota and Claremont Toyota), in which I also learned to become a service express writer where I would write up repair orders for vehicles coming in through our service department.
+
+Provided below are the skills that I've garnished over the course of 6 years throughout my educational and career path which highlight my experience applying these specific skills to real-world challenges and scenarios. These skills reflect my ability to combine experience, critical-thinking skills, and adaptability to make well-informed decisions and great results.
+
+
+## What You’ll Find
+
+- **Virtual Literacy:** Critical skills in various programs, such as Adobe and Micrsoft, in addition to fast-paced typing skills and creating repair orders.
+- **Data Analysis:** Utilizing data analytics to find solutions for increased customer engagement.
+- **Customer Service Skills:** Long-term developed skills over the course of 5 years in several industries with the ability to adapt to different conversations.
+- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+
+---
