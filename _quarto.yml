@@ -8,9 +8,9 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Business"
-        href: marketing-analytics.qmd
+        href: business.qmd
       - text: "Automotive"
-        href: strategic-marketing.qmd
+        href: automotive.qmd
       - text: "Résumé"
         href: resume.qmd
 
