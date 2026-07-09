@@ -7,9 +7,9 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Education in Business"
+      - text: "Business"
         href: marketing-analytics.qmd
-      - text: "Automotive Education and Experience"
+      - text: "Automotive"
         href: strategic-marketing.qmd
       - text: "Résumé"
         href: resume.qmd

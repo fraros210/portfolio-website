@@ -1,10 +1,14 @@
 ---
-title: "Education in Business"
-listing: 
-  contents: listings
+title: "Business Education and Experience"
+
+listing:
+  contents:
+    - listings/03-customer-segmentation-clustering.qmd
+    - listings/04-funnel-attribution-model.qmd
+    - listings/05-social-media-engagement.qmd
   type: grid
   categories: true
-  sort: 
+  sort:
     - "index desc"
 ---
 
@@ -19,5 +23,3 @@ Provided below are the skills that I've garnished over the course of 6 years thr
 - **Data Analysis:** Utilizing data analytics to find solutions for increased customer engagement.
 - **Customer Service Skills:** Long-term developed skills over the course of 5 years in several industries with the ability to adapt to different conversations.
 - **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
-
----

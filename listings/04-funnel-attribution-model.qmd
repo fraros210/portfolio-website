@@ -1,28 +1,27 @@
 ---
-title: "Marketing Funnel Attribution Model"
-image: "https://placehold.co/600x400?text=Attribution+Model"
-categories: [Attribution, Marketing Funnel, Campaign Optimization, Analytics Modeling, Data Science]
+title: "General Automotive Certificate of Achievement [2022-2024]"
+image: "../images/riohondo-header.jpg"
+categories: [Diagnostics, Maintenance, Vehicle Inspections, Tool Competency, Service]
 index: 4
 ---
 
 #### **Overview**  
-This project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.
+This aspect of my schooling and work experience consists of experience that I've compiled over the course of roughly about four years. Outside of such, I have personally worked on my personal vehicles for about five years, learning about the functions of vehicles through the Internet and from insight from other experienced mechanics.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Track multi-touch customer journeys.  
-- Model attribution using first-touch, last-touch, and linear approaches.  
-- Visualize funnel performance.  
-- Quantify channel impact on conversion.  
-- Guide future campaign investment decisions.
+- Utilization of tools when necessary.  
+- Performing maintenance services and additional services for things such as vehicle repairs.
+- Diagnosing issues on vehicles when present.  
+- Understanding the anatomy of a vehicle and its functions
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Attribution modeling  
-- Funnel analysis  
-- Data visualization  
-- Campaign performance analysis  
-- R or Python analytics pipelines
+- Tool Competency  
+- Vehicle Diagnostics  
+- Engine and Transmission Repairs 
+- Vehicle Multi-Point Inspections
+- Basic Service Maintenance
 :::
 :::

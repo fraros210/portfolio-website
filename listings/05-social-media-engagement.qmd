@@ -1,28 +1,28 @@
 ---
-title: "Social Media Engagement Analysis"
-image: "https://placehold.co/600x400?text=Social+Media+Analysis"
-categories: [Social Media, Engagement Metrics, Content Strategy, Audience Analysis, Analytics]
+title: "Business Administration for Transfer Associate's Degree [2020-2024]"
+image: "../images/riohondo-header.jpg"
+categories: [Business Management, Marketing, Human Relations, Human Resources, Financial Accounting, Algebra, Calculus, Managerial Accounting] 
 index: 5
 ---
 
 #### **Overview**  
-This analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.
+These were the main focus classes that were covered during my time at Rio Hondo Community College between 2020-2024 for my Business Administration for Transfer Associate's Degree, helping me understand the culture and ideas within the world of business manangement and administration.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Aggregate and clean social media data.  
-- Identify high-performing content formats.  
-- Understand audience behavior and peak times.  
-- Support social strategy with data-backed recommendations.  
-- Visualize results in an executive summary.
+- Understanding human behavior in the workforce.  
+- Managing business organizations internally.  
+- Managing business accounts financially in accounting.  
+- Calculating and deciphering data and logistics for companies.
+- Obtaining skills in computer literacy.
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- Social analytics  
-- Platform metric APIs  
-- Content performance tracking  
-- Audience insights  
-- Strategic planning
+- Customer Service  
+- Computer Literacy  
+- Accounting  
+- Management  
+- Organization
 :::
 :::

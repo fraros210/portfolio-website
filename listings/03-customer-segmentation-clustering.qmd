@@ -1,28 +1,27 @@
 ---
-title: "Customer Segmentation Using Clustering"
-image: "https://placehold.co/600x400?text=Customer+Segmentation"
-categories: [Customer Insights, Segmentation, Machine Learning, Clustering, Marketing Strategy]
+title: "California State Polytechnic University, Pomona [2025-2026]"
+image: "../images/CPP-COBA-01.jpg"
+categories: [Marketing Management, Organizational Behavior, Oepration Management, Professional Selling, Marketing Analysis]
 index: 3
 ---
 
 #### **Overview**  
-In this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.
+During my time at Cal Poly Pomona, I observed and learned additional fundamentals in business administration and marketing to apply into the workforce, particularly for a long-term career.
 
 ::: {.columns}
 ::: {.column width="50%"}
 #### **Learning Outcomes**  
-- Clean and prepare customer-level data.  
-- Apply clustering techniques to group similar customers.  
-- Interpret clusters to define marketing personas.  
-- Recommend tailored messaging strategies.  
-- Support targeted campaign development.
+- Organizing marketing analytics and understanding them to increase customer reach.  
+- Learning about individuals in a work environment to improve efficiency and job satisfaction.  
+- Utilizing B2B concepts to secure deals with other businesses and improve relations.  
+- Producing and delivering an organization's products and services in a efficient manner with effectiveness.
 :::
 ::: {.column width="50%"}
 #### **Key Skills Gained**  
-- K-means clustering  
-- Data preprocessing  
-- Customer profiling  
-- Market segmentation strategy  
-- R or Python for machine learning
+- Management Compentency 
+- Data Analyzation
+- B2B Selling  
+- Market Strategies 
+- Organizational Understanding
 :::
 :::
