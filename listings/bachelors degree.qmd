@@ -1,5 +1,5 @@
 ---
-title: "California State Polytechnic University, Pomona [2025-2026]"
+title: "Bachelor's Degree in Business Administration Major with an Emphasis in Marketing Management [2025-2026]"
 image: "../images/CPP-COBA-01.jpg"
 categories: [Marketing Management, Organizational Behavior, Oepration Management, Professional Selling, Marketing Analysis]
 index: 3

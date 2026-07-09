@@ -8,13 +8,13 @@ title: "Hi, I'm Francis Rosales"
 ![](images/IMG_8388.jpeg){width=80% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a Cal Poly Pomona student majoring in Business Administration. I currently work at Toyota dealership in Claremont, California with long-time experience in customer service with aspirations to open up my first business in the automotive industry. 
+I'm a Cal Poly Pomona student majoring in Business Administration. I currently work at a Toyota dealership in Claremont, California with long-time experience in customer service with aspirations to open up my first business in the automotive industry. 
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[General Automotive Service Certificate of Achievement, Business Administration for Transfer Associate's Degree]</span> from [Rio Hondo Community College]. I am currently going to California State Polytechnic University, Pomona for a Bachleor's Degree in Business Administration with an emphasis on Marketing Management.
+I hold a <span class="highlight">General Automotive Service Certificate of Achievement and a Business Administration for Transfer Associate's Degree</span> from **Rio Hondo Community College**. I am currently going to California State Polytechnic University, Pomona for a Bachelor's Degree in Business Administration with an emphasis on Marketing Management.
 
 
 

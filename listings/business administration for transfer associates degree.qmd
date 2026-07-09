@@ -6,7 +6,7 @@ index: 5
 ---
 
 #### **Overview**  
-These were the main focus classes that were covered during my time at Rio Hondo Community College between 2020-2024 for my Business Administration for Transfer Associate's Degree, helping me understand the culture and ideas within the world of business manangement and administration.
+These were the main focus classes that were covered during my time at **Rio Hondo Community College** between 2020-2024 for my **Business Administration for Transfer Associate's Degree**, helping me understand the culture and ideas within the world of business management and administration.
 
 ::: {.columns}
 ::: {.column width="50%"}
