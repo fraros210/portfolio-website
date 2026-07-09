@@ -3,9 +3,9 @@ title: "Business Education and Experience"
 
 listing:
   contents:
-    - listings/business-administration-for-transfer-associates-degree.qmd
-    - listings/general-automotive-certificate-of-achievement.qmd
-    - listings/bachelors-degree.qmd
+    - "listings/business administration for transfer associates degree.qmd"
+    - "listings/general automotive certificate of achievement.qmd"
+    - "listings/bachelors degree.qmd"
   type: grid
   categories: true
   sort:
